@@ -1,6 +1,5 @@
 <h3 align="center">I'm a problem solver and mathematician with a passion for coding. I specialize in C, Python, JavaScript, and other programming languages.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
