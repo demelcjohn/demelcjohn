@@ -36,16 +36,16 @@ I bridge the gap between complex mathematical theory and high-performance softwa
 
 ## 📈 Activity & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=demelcjohn&show_icons=true&theme=radical&count_private=true" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=demelcjohn&theme=radical" alt="Streak" />
 </p>
 
 ---
 
 ### 📫 Connect with me:
 <p align="left">
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:demal.john007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/demelcjohn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
